@@ -1,4 +1,4 @@
-# 📄 QUEST RAG Assistant
+# 📄 QUEST AI Assistant
 
 An AI-powered Retrieval-Augmented Generation (RAG) application that allows users to ask questions directly from official QUEST (Quaid-e-Awam University of Engineering, Science and Technology) documents.
 
