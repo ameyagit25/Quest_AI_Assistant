@@ -152,7 +152,7 @@ headers = {
 
 st.sidebar.markdown("### API Sources")
 st.sidebar.markdown(
-    "Recommended to use **Groq API** with **gpt-oss-120b** for best results. \n"
+    
     "- **Groq API**  \n"
     "https://console.groq.com/keys"
 )
