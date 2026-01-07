@@ -120,9 +120,9 @@ def retrieve(query, k=5):
 # ----------------------------
 # Streamlit UI
 # ----------------------------
-st.set_page_config(page_title="QUEST RAG App", layout="wide")
+st.set_page_config(page_title="QUEST AI Assistant", layout="wide")
 
-st.title("📄 QUEST RAG Assistant")
+st.title("📄 QUEST AI Assistant")
 st.markdown(
     "Ask questions directly from **official QUEST documents** using an AI-powered retrieval system."
 )
