@@ -122,7 +122,7 @@ def retrieve(query, k=5):
 # ----------------------------
 st.set_page_config(page_title="QUEST AI Assistant", layout="wide")
 
-st.title("📄 QUEST AI Assistant")
+st.title("👨‍💻 QUEST AI Assistant")
 st.markdown(
     "Ask questions directly from **official QUEST documents** using an AI-powered retrieval system."
 )
