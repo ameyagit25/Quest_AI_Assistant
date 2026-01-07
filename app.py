@@ -134,11 +134,11 @@ provider = "Groq"
 model_name = st.sidebar.selectbox(
     "Select Model",
     [
+        "groq/compound-mini",
         "openai/gpt-oss-120b",
         "openai/gpt-oss-safeguard-20b",
         "openai/gpt-oss-20b",
         "groq/compound",
-        "groq/compound-mini",
         "llama-3.3-70b-versatile"
     ]
 )
